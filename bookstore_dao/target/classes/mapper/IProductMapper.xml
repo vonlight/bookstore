@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="test.demo.shop.dao.IProductDao">
+    <select id="findByCategoryCode" resultType="product" >
+        select * from product where disabled != 1 and storage >= 1
+            <if test="categoryCode != null">
+                and category_Code like #{categoryCode}
+            </if>
+            <if test="title != null">
+                and title like #{title}
+            </if>
+    </select>
+    <select id="findAllByCategoryCode" resultType="product" >
+        select * from product where 1 = 1
+            <if test="categoryCode != null">
+                and category_Code like #{categoryCode}
+            </if>
+            <if test="title != null">
+                and title like #{title}
+            </if>
+    </select>
+</mapper>

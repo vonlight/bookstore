@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="test.demo.shop.dao.IOrderDao">
+
+    <select id="orderSearch" resultMap="orderMapper" >
+        select * from tb_order where 1 = 1
+        <if test="orderCode != null">
+          and  order_Code like #{orderCode}
+        </if>
+    </select>
+    <select id="findPayOrder" resultMap="orderMapper" >
+        select * from tb_order where pay_status = 1
+        <if test="id == null">
+            order by RECEIVE_STATUS, CREATE_DATE desc
+        </if>
+        <if test="id != null">
+          and  user_id = #{id} order by  CREATE_DATE desc
+        </if>
+    </select>
+    <select id="findNoPayOrder" resultMap="orderMapper" >
+        select * from tb_order where pay_status = 0
+        <if test = "id == null">
+            order by CREATE_DATE desc
+        </if>
+        <if test="id != null">
+          and  user_id = #{id} order by CREATE_DATE desc
+        </if>
+    </select>
+
+</mapper>

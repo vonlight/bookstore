@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="booksotre_web:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d6d9250-16a6-4caa-8edd-8a191affe334" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_dao/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_domain/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_service/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_web/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_utils/target/" />
+    <ignored path="$PROJECT_DIR$/booksotre_web/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_manage_web/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_parent_web/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_borther_web/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_brother_web/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_manager_web/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_buyer_web/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_wechatpay_web/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_wechat_pay_web/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_admin_web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/java/test/demo/shop/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="670">
+              <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>搜索</find>
+      <find>分页开始</find>
+      <find>druid</find>
+      <find>tk</find>
+      <find>莫伟雯</find>
+      <find>tk.mybatis</find>
+      <find />
+      <find>applicationConext</find>
+      <find>pagehelper</find>
+      <find>PageInfo</find>
+      <find>下架</find>
+      <find>closeProductFun</find>
+      <find>lom</find>
+      <find>dependencyma</find>
+      <find>tk.</find>
+      <find>&lt;form</find>
+      <find>form</find>
+      <find>jq</find>
+      <find>$.get</find>
+      <find>jqu</find>
+      <find>$.po</find>
+      <find>jqy</find>
+      <find>f</find>
+      <find>session</find>
+      <find>PageHeloer</find>
+      <find>pa</find>
+      <find>PageHelper</find>
+      <find>oracle</find>
+      <find>pageinfo</find>
+      <find>logout</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>maxFirstCode</replace>
+      <replace>manage/order</replace>
+      <replace>product</replace>
+      <replace>WXPayConstants.SignType</replace>
+      <replace>request</replace>
+      <replace>showOrder</replace>
+      <replace>okPassword</replace>
+      <replace>name</replace>
+      <replace>phone</replace>
+      <replace>email</replace>
+      <replace>address</replace>
+      <replace>col-sm-push-2</replace>
+      <replace>${pageDo}</replace>
+      <replace>${pageContext.request.contextPath}</replace>
+      <replace>col-sm-</replace>
+      <replace>[j]</replace>
+      <replace>e</replace>
+      <replace>order</replace>
+      <replace>orderFindAll</replace>
+      <replace>$orderCode=${}</replace>
+      <replace>$orderCode=${param.}</replace>
+      <replace>orderCode=${param.orderCode}&amp;</replace>
+      <replace>user</replace>
+      <replace>findAllRoleOne.do</replace>
+      <replace>${pageResources}</replace>
+      <replace>username=${param.username}</replace>
+      <replace>.selectNum</replace>
+      <replace>${pageContext.request.contextPath}/</replace>
+      <replace>${pageResource}</replace>
+      <replace>pageResources</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\IDEAWorkspace6\bookstore\booksotre_web\src\main\java</dir>
+      <dir>F:\IDEAWorkspace6\bookstore</dir>
+      <dir>F:\IDEAWorkspace6\bookstore\bookstore_web</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/common/nav.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/orderDetail.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_service/src/main/java/test/demo/shop/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/java/test/demo/shop/controller/ShopcarController.java" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/paySuccess.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/order.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_service/src/main/java/test/demo/shop/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/updateProduct.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/categoryAdd.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_domain/src/main/java/test/demo/shop/domain/Address.java" />
+        <option value="$PROJECT_DIR$/bookstore_domain/src/main/java/test/demo/shop/domain/Order.java" />
+        <option value="$PROJECT_DIR$/bookstore_domain/src/main/java/test/demo/shop/domain/Product.java" />
+        <option value="$PROJECT_DIR$/bookstore_service/src/main/java/test/demo/shop/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/java/test/demo/shop/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/java/test/demo/shop/manage/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/userList.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/productDetail.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/java/test/demo/shop/manage/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/pay.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/orderList.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/categoryList.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/productList.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/productDetail.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/java/test/demo/shop/manage/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/java/test/demo/shop/manage/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/shopcar.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/register.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/addressList.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/confirmOrderInfo.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/userDetail.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/test/java/test/Test.java" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/test/java/test/TestDemo.java" />
+        <option value="$PROJECT_DIR$/bookstore_dao/src/main/java/test/demo/shop/dao/ICategoryDao.java" />
+        <option value="$PROJECT_DIR$/bookstore_dao/src/main/java/test/demo/shop/dao/IOrderDetailDao.java" />
+        <option value="$PROJECT_DIR$/bookstore_dao/src/main/java/test/demo/shop/dao/IAddressDao.java" />
+        <option value="$PROJECT_DIR$/bookstore_service/src/main/java/test/demo/shop/service/impl/OrderDetailImpl.java" />
+        <option value="$PROJECT_DIR$/bookstore_service/src/main/java/test/demo/shop/service/impl/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/java/test/demo/shop/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/java/test/demo/shop/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/bookstore_dao/src/main/resources/mapper/IOrderMapper.xml" />
+        <option value="$PROJECT_DIR$/bookstore_dao/src/main/java/test/demo/shop/dao/IOrderDao.java" />
+        <option value="$PROJECT_DIR$/bookstore_dao/src/main/java/test/demo/shop/dao/IUserDao.java" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/bookstore_admin_web/src/main/java/test/demo/shop/manage/intercept/LoginIntercept.java" />
+        <option value="$PROJECT_DIR$/bookstore_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/bookstore_service/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/bookstore_domain/src/main/java/test/demo/shop/domain/User.java" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/productIndex.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/bookstore_web/src/main/java/test/demo/shop/controller/UserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven_repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookstore" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookstore" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookstore_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookstore_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookstore_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=GB2312" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>Batch Applications Issues</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Pages Navigation Model</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 2Struts</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CheckTagEmptyBody</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Usercontro&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/java/test/demo/shop/controller/UserController.java&#10;TestDemo&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/test/java/test/TestDemo.java&#10;ProductC&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/java/test/demo/shop/controller/ProductController.java&#10;UserContro&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/java/test/demo/shop/controller/UserController.java&#10;UserContrp&#9;null&#9;null&#10;User.java&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_domain/src/main/java/test/demo/shop/domain/User.java&#10;user.java&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_domain/src/main/java/test/demo/shop/domain/User.java&#10;productController&#9;PSI&#9;JAVA://test.demo.shop.controller.ProductController&#10;sprin&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_admin_web/src/main/resources/spring-mvc.xml&#10;web&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/WEB-INF/web.xml&#10;jsp&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/pages/login.jsp&#10;.jsp&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/pages/productAside.jsp&#10;IUserDao&#9;PSI&#9;JAVA://test.demo.shop.dao.IUserDao&#10;IUserSer&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_service/src/main/java/test/demo/shop/service/IUserService.java&#10;applicationCOntext&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_service/src/main/resources/applicationContext.xml&#10;UserServiceIMpl&#9;PSI&#9;JAVA://test.demo.shop.service.impl.UserServiceImpl&#10;IUSerSer&#9;PSI&#9;JAVA://test.demo.shop.service.IUserService&#10;User&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_domain/src/main/java/test/demo/shop/domain/User.java&#10;User.jav&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_domain/src/main/java/test/demo/shop/domain/User.java&#10;applicationContext.xml&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_service/src/main/resources/applicationContext.xml&#10;log4j.pro&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_service/src/main/resources/log4j.properties&#10;CategoryController&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_admin_web/src/main/java/test/demo/shop/manage/controller/CategoryController.java&#10;categoryController&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_admin_web/src/main/java/test/demo/shop/manage/controller/CategoryController.java&#10;ICategoryServ&#9;PSI&#9;JAVA://test.demo.shop.service.ICategoryService&#10;IproductMapper&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_dao/src/main/resources/mapper/IProductMapper.xml&#10;productMapper&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_dao/src/main/resources/mapper/IProductMapper.xml&#10;Testdemo&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/test/java/test/TestDemo.java&#10;Testd&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/test/java/test/TestDemo.java&#10;TestDemo.java&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/test/java/test/TestDemo.java&#10;userDetail.jsp&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/pages/userDetail.jsp&#10;addressL&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/pages/addressList.jsp&#10;address&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/pages/addressList.jsp&#10;userDetail&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/pages/userDetail.jsp&#10;addressLis&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/pages/addressList.jsp&#10;register.jsp&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/pages/register.jsp&#10;update&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_admin_web/src/main/webapp/pages/updateProduct.jsp&#10;productList&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_admin_web/src/main/webapp/pages/productList.jsp&#10;addre&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/pages/addressList.jsp&#10;address.&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/pages/addressList.jsp&#10;addressList.jsp&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/pages/addressList.jsp&#10;order.jav a&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_domain/src/main/java/test/demo/shop/domain/Order.java&#10;OrderContro&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/java/test/demo/shop/controller/OrderController.java&#10;productList.jsp&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_admin_web/src/main/webapp/pages/productList.jsp&#10;OrderList.jsp&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_admin_web/src/main/webapp/pages/orderList.jsp&#10;pay.jsp&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/webapp/pages/pay.jsp&#10;ProductContr&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_web/src/main/java/test/demo/shop/controller/ProductController.java&#10;productList.&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_admin_web/src/main/webapp/pages/productList.jsp&#10;productContro&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_admin_web/src/main/java/test/demo/shop/manage/controller/ProductController.java&#10;productDetail&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_admin_web/src/main/webapp/pages/productDetail.jsp&#10;orderController.java&#9;FILE&#9;file://F:/IDEAWorkspace6/bookstore/bookstore_admin_web/src/main/java/test/demo/shop/manage/controller/OrderController.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEAWorkspace6\bookstore\bookstore_buyer_web\src\main\webapp\pages" />
+      <recent name="F:\IDEAWorkspace6\bookstore\bookstore_buyer_web\src\main\webapp\js" />
+      <recent name="F:\IDEAWorkspace6\bookstore\bookstore_buyer_web\src\main\webapp\plugins" />
+      <recent name="F:\IDEAWorkspace6\bookstore\bookstore_admin_web\src\main\webapp\WEB-INF" />
+      <recent name="F:\IDEAWorkspace6\bookstore\bookstore_admin_web\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test.demo.shop.intercept" />
+      <recent name="test.demo.shop.utils" />
+      <recent name="test.demo.shop.manage.intercept" />
+      <recent name="test.demo.servlet" />
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEAWorkspace6\bookstore\bookstore_web\src\main\webapp\resources\plugins" />
+      <recent name="F:\IDEAWorkspace6\bookstore\bookstore_buyer_web\src\main\webapp" />
+      <recent name="F:\IDEAWorkspace6\bookstore\bookstore_buyer_web\src\main\webapp\img" />
+      <recent name="F:\IDEAWorkspace6\bookstore\test_web1\img" />
+      <recent name="F:\IDEAWorkspace6\bookstore\test_web1\plugins" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.bookstore_admin_web">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="JedisUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.demo.shop.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.demo.shop.utils.JedisUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="bookstore_utils" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="bookstore_web" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="TestDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="bookstore_web" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestDemo" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="bookstore_web" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="bookstore_admin_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/bookstore_admin_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="buyer_tomcat7:run" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/bookstore_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="bookstore" />
+      <envs />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Maven.buyer_tomcat7:run" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.bookstore_admin_web" />
+      <item index="2" class="java.lang.String" itemvalue="Application.JedisUtil" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestDemo.test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Test.test" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestDemo.test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.JedisUtil" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Test.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d6d9250-16a6-4caa-8edd-8a191affe334" name="Default" comment="" />
+      <created>1586061427813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586061427813</updated>
+      <workItem from="1586061431835" duration="7677000" />
+      <workItem from="1586071737264" duration="102624000" />
+      <workItem from="1586277825067" duration="36192000" />
+      <workItem from="1586354035430" duration="12177000" />
+      <workItem from="1586412787537" duration="376000" />
+      <workItem from="1586413237664" duration="570000" />
+      <workItem from="1586413839303" duration="1237000" />
+      <workItem from="1586415118118" duration="5793000" />
+      <workItem from="1586420941606" duration="193000" />
+      <workItem from="1586421165990" duration="127000" />
+      <workItem from="1586421319109" duration="3980000" />
+      <workItem from="1586425949371" duration="15488000" />
+      <workItem from="1586486216974" duration="752000" />
+      <workItem from="1586486994570" duration="956000" />
+      <workItem from="1586487988102" duration="42995000" />
+      <workItem from="1586575440534" duration="10389000" />
+      <workItem from="1586591065791" duration="204000" />
+      <workItem from="1586591297332" duration="28493000" />
+      <workItem from="1586662831015" duration="574000" />
+      <workItem from="1586663747588" duration="62344000" />
+      <workItem from="1586776347574" duration="77226000" />
+      <workItem from="1586933051341" duration="235000" />
+      <workItem from="1586933875712" duration="537000" />
+      <workItem from="1586934556887" duration="29186000" />
+      <workItem from="1586970768774" duration="2688000" />
+      <workItem from="1586973524712" duration="2571000" />
+      <workItem from="1587020978347" duration="41881000" />
+      <workItem from="1587281629289" duration="28390000" />
+      <workItem from="1587524657478" duration="439000" />
+      <workItem from="1587525121196" duration="40490000" />
+      <workItem from="1587658732236" duration="8657000" />
+      <workItem from="1587782469568" duration="34023000" />
+      <workItem from="1588077875434" duration="1133000" />
+      <workItem from="1588246135891" duration="798000" />
+      <workItem from="1588493520808" duration="601000" />
+      <workItem from="1588503830413" duration="1593000" />
+      <workItem from="1588597285233" duration="4515000" />
+      <workItem from="1589288575077" duration="611000" />
+      <workItem from="1589541708968" duration="16953000" />
+      <workItem from="1589941805263" duration="1138000" />
+      <workItem from="1589961284542" duration="3042000" />
+      <workItem from="1590137134611" duration="8290000" />
+      <workItem from="1590164315341" duration="4849000" />
+      <workItem from="1590730094423" duration="1849000" />
+      <workItem from="1590759330369" duration="614000" />
+      <workItem from="1591007854063" duration="75000" />
+      <workItem from="1591072414783" duration="1801000" />
+      <workItem from="1591432274127" duration="1180000" />
+      <workItem from="1591670837198" duration="284000" />
+      <workItem from="1591671320342" duration="495000" />
+      <workItem from="1592492696595" duration="1222000" />
+      <workItem from="1592580383238" duration="1324000" />
+      <workItem from="1592587886344" duration="4899000" />
+      <workItem from="1592707769792" duration="2744000" />
+      <workItem from="1592981685452" duration="599000" />
+      <workItem from="1593483612378" duration="648000" />
+      <workItem from="1593595000921" duration="1519000" />
+      <workItem from="1593947292220" duration="553000" />
+      <workItem from="1593948583671" duration="9000" />
+      <workItem from="1593948807557" duration="1721000" />
+      <workItem from="1594004982552" duration="4065000" />
+      <workItem from="1594023084781" duration="2792000" />
+      <workItem from="1594393166961" duration="12022000" />
+      <workItem from="1595256875468" duration="9053000" />
+      <workItem from="1595402490875" duration="507000" />
+      <workItem from="1595403347551" duration="521000" />
+      <workItem from="1595661033033" duration="153000" />
+      <workItem from="1595676090286" duration="2895000" />
+      <workItem from="1595738437942" duration="3662000" />
+      <workItem from="1595987956266" duration="670000" />
+      <workItem from="1596008242187" duration="616000" />
+      <workItem from="1596161843080" duration="659000" />
+      <workItem from="1596682374983" duration="315000" />
+      <workItem from="1596682828662" duration="922000" />
+      <workItem from="1596695848793" duration="159000" />
+      <workItem from="1596956810779" duration="896000" />
+      <workItem from="1597732107420" duration="1280000" />
+      <workItem from="1597754770995" duration="1990000" />
+      <workItem from="1598072535789" duration="2719000" />
+      <workItem from="1598615551079" duration="1071000" />
+      <workItem from="1599142958616" duration="7938000" />
+      <workItem from="1599636851124" duration="600000" />
+      <workItem from="1599665684129" duration="3893000" />
+      <workItem from="1600250321464" duration="652000" />
+      <workItem from="1600309651516" duration="1156000" />
+      <workItem from="1600449388994" duration="360000" />
+      <workItem from="1601351979779" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestDemo_test - 2020.05.22 at 23h 49m 12s.xml">
+      <configuration name="TestDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_test - 2020.05.22 at 23h 49m 52s.xml">
+      <configuration name="TestDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_test - 2020.05.22 at 23h 50m 16s.xml">
+      <configuration name="TestDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_test - 2020.05.23 at 00h 03m 45s.xml">
+      <configuration name="TestDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_test - 2020.05.23 at 00h 05m 37s.xml">
+      <configuration name="TestDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_test - 2020.05.23 at 00h 05m 47s.xml">
+      <configuration name="TestDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_test - 2020.05.23 at 00h 06m 19s.xml">
+      <configuration name="TestDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_test - 2020.05.23 at 00h 06m 28s.xml">
+      <configuration name="TestDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_test - 2020.05.23 at 00h 06m 36s.xml">
+      <configuration name="TestDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_test - 2020.05.23 at 00h 06m 54s.xml">
+      <configuration name="TestDemo.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="726187000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.49785638" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37457818" sideWeight="0.5085745" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23097534" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37232846" sideWeight="0.4914255" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.49785638" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3226152" sideWeight="0.46837944" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25241157" sideWeight="0.53162056" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973205" sideWeight="0.48368955" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3982002" sideWeight="0.49356914" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.49678457" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/adminlte/pages/all-admin-dataform.html</url>
+          <line>1037</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="330" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bookstore_dao/src/main/java/test/demo/shop/dao/IAddressDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_domain/src/main/java/test/demo/shop/domain/OrderProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_domain/src/main/java/test/demo/shop/domain/OrderDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_domain/src/main/java/test/demo/shop/domain/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_domain/src/main/java/test/demo/shop/domain/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_domain/src/main/java/test/demo/shop/domain/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_dao/src/main/java/test/demo/shop/dao/IShopcarDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_service/src/main/java/test/demo/shop/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_service/src/main/java/test/demo/shop/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_dao/src/main/java/test/demo/shop/dao/IUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="38" column="11" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/java/test/demo/shop/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/java/test/demo/shop/controller/ShopcarController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_dao/src/main/java/test/demo/shop/dao/IOrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="22" column="134" lean-forward="false" selection-start-line="22" selection-start-column="134" selection-end-line="22" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/categoryAdd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="102" column="22" lean-forward="true" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/aside.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/order.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="247" column="14" lean-forward="true" selection-start-line="247" selection-start-column="14" selection-end-line="247" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/java/test/demo/shop/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/productList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8642">
+          <caret line="298" column="43" lean-forward="false" selection-start-line="298" selection-start-column="42" selection-end-line="298" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_admin_web/src/main/java/test/demo/shop/manage/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_admin_web/src/main/java/test/demo/shop/manage/intercept/LoginIntercept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_admin_web/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_domain/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_service/src/main/java/test/demo/shop/service/impl/CategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_dao/src/main/resources/mapper/IProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_dao/src/main/java/test/demo/shop/dao/ICategoryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_dao/src/main/java/test/demo/shop/dao/IProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="14" column="89" lean-forward="false" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_admin_web/src/main/webapp/pages/categoryList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8062">
+          <caret line="278" column="49" lean-forward="false" selection-start-line="278" selection-start-column="49" selection-end-line="278" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_domain/src/main/java/test/demo/shop/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_dao/src/main/resources/mapper/IOrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="18" column="53" lean-forward="false" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/java/test/demo/shop/controller/AddressController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_service/src/main/java/test/demo/shop/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/java/test/demo/shop/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/common/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2117">
+          <caret line="73" column="83" lean-forward="false" selection-start-line="73" selection-start-column="83" selection-end-line="73" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/productDetail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3654">
+          <caret line="126" column="22" lean-forward="false" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/productAside.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/webapp/pages/productIndex.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="106" column="19" lean-forward="false" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_admin_web/src/main/java/test/demo/shop/manage/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="48" column="26" lean-forward="false" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="260" column="19" lean-forward="false" selection-start-line="260" selection-start-column="19" selection-end-line="260" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_service/src/main/resources/jedis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_service/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_admin_web/src/main/java/test/demo/shop/manage/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="37" column="46" lean-forward="false" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/test/java/test/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_web/src/main/java/test/demo/shop/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>booksotre_web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bookstore_service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.0.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

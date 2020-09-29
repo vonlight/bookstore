@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bookstore.iml" filepath="$PROJECT_DIR$/bookstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_admin_web/bookstore_admin_web.iml" filepath="$PROJECT_DIR$/bookstore_admin_web/bookstore_admin_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_dao/bookstore_dao.iml" filepath="$PROJECT_DIR$/bookstore_dao/bookstore_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_domain/bookstore_domain.iml" filepath="$PROJECT_DIR$/bookstore_domain/bookstore_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_service/bookstore_service.iml" filepath="$PROJECT_DIR$/bookstore_service/bookstore_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_utils/bookstore_utils.iml" filepath="$PROJECT_DIR$/bookstore_utils/bookstore_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_web/bookstore_web.iml" filepath="$PROJECT_DIR$/bookstore_web/bookstore_web.iml" />
+    </modules>
+  </component>
+</project>

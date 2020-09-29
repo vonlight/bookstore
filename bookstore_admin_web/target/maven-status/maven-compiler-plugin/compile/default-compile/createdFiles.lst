@@ -1,0 +1,5 @@
+test\demo\shop\manage\controller\UserController.class
+test\demo\shop\manage\controller\OrderController.class
+test\demo\shop\manage\controller\CategoryController.class
+test\demo\shop\manage\controller\ProductController.class
+test\demo\shop\manage\intercept\LoginIntercept.class
